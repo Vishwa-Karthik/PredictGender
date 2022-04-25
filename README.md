@@ -1,6 +1,7 @@
 # Gender Predictor
 
-# A Flutter Project which predicts the gender based on the input Name given to it.
+## Flutter project that predicts gender based on the name given to it.
 
-# API : https://genderize.io/
+
+### API used : https://genderize.io/
 
